@@ -1,0 +1,6 @@
+,MCQ,Choices,Correct
+0,Who coined the term 'machine learning'?,c : Arthur Samuel | a : Alan Turing | d : Tom M. Mitchell | b : Donald Hebb,c
+1,Which field of study focuses on exploratory data analysis through unsupervised learning?,a : Machine Learning | b : Data Mining | c : Artificial Intelligence | d : Predictive Analytics,b
+2,What is the mathematical foundation of Machine Learning provided by?,a : Data Mining | b : Computational Statistics | d : Artificial Neural Networks | c : Mathematical Optimization,c
+3,Who proposed the early mathematical models of neural networks that mirror human thought processes?,b : Warren McCulloch | d : Arthur Samuel | c : Donald Hebb | a : Walter Pitts,b
+4,What is the purpose of a machine learning algorithm for stock trading?,c : To recognize patterns in sonar signals | d : To filter emails | b : To make predictions for future outcomes | a : To classify data based on models,b
